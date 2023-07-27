@@ -143,3 +143,5 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.IsAuthenticated'
     ]
 }
+
+DJANGO_SETTINGS_MODULE='drf-api-permissions-postgres.settings'
