@@ -1,4 +1,6 @@
-# LAB - Class 32 drf-api-permissions-postgres
+# LAB - Class 32 
+
+drf-api-permissions-postgres
 ## Project: django_items
 ## Author: Ibraheem Areeda
 
